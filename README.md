@@ -1,4 +1,4 @@
-# Web Development Project 3 - *Capture Screenshot*
+# Web Development Project - *Capture Screenshot*
 
 Submitted by: **Nhi Huynh**
 
