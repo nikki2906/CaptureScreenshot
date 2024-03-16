@@ -10,7 +10,7 @@ Time spent: **3** hours spent in total
 
 Here's a walkthrough of implemented user stories:
 
-[Video Walkthorugh](https://imgur.com/a/tKPnhko))
+[Video Walkthorugh](https://imgur.com/a/tKPnhko)
 
 
 ## License
