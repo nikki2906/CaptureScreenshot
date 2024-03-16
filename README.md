@@ -1,4 +1,4 @@
-# Web Development Project 3 - *Civics Deck*
+# Web Development Project 3 - *Capture Screenshot*
 
 Submitted by: **Nhi Huynh**
 
